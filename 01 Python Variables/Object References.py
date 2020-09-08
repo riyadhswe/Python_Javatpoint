@@ -1,0 +1,2 @@
+print("John")
+type("John")  
